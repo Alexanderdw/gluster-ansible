@@ -34,7 +34,7 @@ hc_nodes:
           vgname: vg_sdb2
 
       gluster_infra_thinpools:
-        - {vgname: 'vg_sdb2', thinpoolname: 'thinpool_vg_sdb2', thinpoolsize: '20G', poolmetadatasize: '1G'}
+        - {vgname: 'vg_sdb2', thinpoolname: 'thinpool_vg_sdb2', thinpoolsize: '15G', poolmetadatasize: '1G'}
 
       gluster_infra_cache_vars:
         - vgname: vg_sdb2
@@ -101,7 +101,7 @@ hc_nodes:
           vgname: vg_sdb2
 
       gluster_infra_thinpools:
-        - {vgname: 'vg_sdb2', thinpoolname: 'thinpool_vg_sdb2', thinpoolsize: '20G', poolmetadatasize: '1G'}
+        - {vgname: 'vg_sdb2', thinpoolname: 'thinpool_vg_sdb2', thinpoolsize: '15G', poolmetadatasize: '1G'}
 
       gluster_infra_cache_vars:
         - vgname: vg_sdb2
@@ -168,7 +168,7 @@ hc_nodes:
           vgname: vg_sdb2
 
       gluster_infra_thinpools:
-        - {vgname: 'vg_sdb2', thinpoolname: 'thinpool_vg_sdb2', thinpoolsize: '20G', poolmetadatasize: '1G'}
+        - {vgname: 'vg_sdb2', thinpoolname: 'thinpool_vg_sdb2', thinpoolsize: '15G', poolmetadatasize: '1G'}
 
       gluster_infra_cache_vars:
         - vgname: vg_sdb2
